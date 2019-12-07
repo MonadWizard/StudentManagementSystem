@@ -1,0 +1,16 @@
+1st update 
+db.java  --> 
+
+try{
+            Class.forName("org.sqlite.JDBC");
+            Connection conn =DriverManager.getConnection("jdbc:sqlite:D:\\code\\java\\Student Information System\\studentInfo.sqlite");  #change path
+            //JOptionPane.showMessageDialog(null, "Connection to database is successful");
+      
+            return conn;
+       
+
+
+
+
+user : 		Admin
+password: 	Pass123    

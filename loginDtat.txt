@@ -1,0 +1,5 @@
+Username = Admin
+Password = Pass123
+
+
+db.java file a path ta change kora lagba...  // dea
